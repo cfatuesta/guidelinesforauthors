@@ -105,22 +105,22 @@ To report previously published methods: In detail, summarize the previously publ
    Authors should examine a recent issue of Neurology to plan the appropriate layout and size when preparing their figures.
 
 Neurology is interested in 3-D or interactive figures. If you have figures that would be enhanced by this approach, please let the editors know and include these as part of your submission.
-Proof of permission to reprint a figure from any source is required (as is permission to modify a figure, if applicable); figures previously published anywhere will not be published in Neurology without documented permission from the copyright holder.(Permissions should be uploaded as 'Additional Files' files at submission).
-Color figures are published at no charge to authors.
-Use Arial type within figures, capitalizing the first letters of first words of labels only. Ensure that the spacing between letters (kerning) is even (no letters closer together than the others) and that the lettering is crisp.
-Per Journal style, each figure has a short title above it (the detailed legend is placed under the figure). Provide a short title (15 words or less) for each figure at the beginning of the Figure Legend in the manuscript file.
-Title and Figure legends should be double-spaced and appear on a separate page at the end of the manuscript document file.
-Footnotes should be noted as superscript a, b, c, etc.
-Multipart figures should be labeled with capital letters A, B, C, (using Arial font) etc. in the upper left-hand corner of each panel. Please submit multipart figures as composite files. Panels should read from left to right, then down.
-In graphs, standard symbols should be used for data points in the following order: closed circle, closed square, closed triangle, closed diamond, open circle, open square, open triangle, open diamond. To prevent wasted space, axes should end no more than one increment beyond the final data points. Explanatory lettering should not extend beyond the ends of the axes.
-Remove extraneous lines from graphs.
-Line graphs should be solid colored lines rather than dots and dashes.
-Bar fill in bar graphs should be solid color rather than patterns.
-Figures should not include titles or patient initials. Titles should be placed in the figure legend, not on the figure itself. Abbreviation keys should be placed in the figure legend unless they fit into the confines of the figure.
-Internal scale markers must appear on microscopic photographs.
-Remove white type from MRIs, CTs, etc.
-To avoid perspective confusion, right and left sides of axial and coronal images must be marked appropriately with and R for right and/or L for left.
-Number figures in the order of their mention in the text.
+- Proof of permission to reprint a figure from any source is required (as is permission to modify a figure, if applicable); figures previously published anywhere will not be published in Neurology without documented permission from the copyright holder.(Permissions should be uploaded as 'Additional Files' files at submission).
+- Color figures are published at no charge to authors.
+- Use Arial type within figures, capitalizing the first letters of first words of labels only. Ensure that the spacing between letters (kerning) is even (no letters closer together than the others) and that the lettering is crisp.
+- Per Journal style, each figure has a short title above it (the detailed legend is placed under the figure). Provide a short title (15 words or less) for each figure at the beginning of the Figure Legend in the manuscript file.
+- Title and Figure legends should be double-spaced and appear on a separate page at the end of the manuscript document file.
+- Footnotes should be noted as superscript a, b, c, etc.
+- Multipart figures should be labeled with capital letters A, B, C, (using Arial font) etc. in the upper left-hand corner of each panel. Please submit multipart figures as composite files. Panels should read from left to right, then down.
+- In graphs, standard symbols should be used for data points in the following order: closed circle, closed square, closed triangle, closed diamond, open circle, open square, open triangle, open diamond. To prevent wasted space, axes should end no more than one increment beyond the final data points. Explanatory lettering should not extend beyond the ends of the axes.
+- Remove extraneous lines from graphs.
+- Line graphs should be solid colored lines rather than dots and dashes.
+- Bar fill in bar graphs should be solid color rather than patterns.
+-Figures should not include titles or patient initials. Titles should be placed in the figure legend, not on the figure itself. Abbreviation keys should be placed in the figure legend unless they fit into the confines of the figure.
+- Internal scale markers must appear on microscopic photographs.
+- Remove white type from MRIs, CTs, etc.
+- To avoid perspective confusion, right and left sides of axial and coronal images must be marked appropriately with and R for right and/or L for left.
+- Number figures in the order of their mention in the text.
 For supported electronic file requirements, see the section on Electronic Figure and Video Submission.
 
    </details>
@@ -129,14 +129,14 @@ For supported electronic file requirements, see the section on Electronic Figure
       <br>
   Tables should be created using the table function in Word and included as part of the manuscript document file. Do not embed image files of tables and do not use tabs in creating tables. Authors should consult a recent issue of Neurology before designing tables.
 
-Tables should be brief and easily understood without referring to the text.
-Do not use color or shading within tables.
-Do not include patient names or initials in the tables.
-Place each table, including a title and legend (if applicable), on a separate page at the end of the manuscript file.
-All tables must be double-spaced.
-Number tables in the order of their mention in the text.
-References cited within a table should use numbers rather than author names.
-Tables should be no longer than two double-spaced manuscript pages.
+- Tables should be brief and easily understood without referring to the text.
+- Do not use color or shading within tables.
+- Do not include patient names or initials in the tables.
+- Place each table, including a title and legend (if applicable), on a separate page at the end of the manuscript file.
+- All tables must be double-spaced.
+- Number tables in the order of their mention in the text.
+- References cited within a table should use numbers rather than author names.
+- Tables should be no longer than two double-spaced manuscript pages.
     </details>
    
    
@@ -145,7 +145,7 @@ Tables should be no longer than two double-spaced manuscript pages.
   <details>
   <summary>Jama</summary>
   </details>
-  <br>
+  
   
   
   
