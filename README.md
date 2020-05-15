@@ -8,7 +8,7 @@ All the journals' guidelines for authors in one place.
   <summary>Select the journal you'd like yo submit your paper to.</summary>
   <br>
   <details>
-    <summary>Neurology</summary>
+    <summary><h1 style="display:inline-block">Neurology</summary>
     <br>
     <details>
       <summary style="margin-left: 40px">Cover Letter</summary>
@@ -334,7 +334,7 @@ For your convenience, we offer an Author Checklist for submission. This is not m
    </details>
    
   <details>
-  <summary>Jama</summary>
+  <summary><h1 style="display:inline-block">Jama</summary>
   <br>
    <details>
     <summary> Author Checklist </summary>
@@ -1080,7 +1080,7 @@ NOTE: If your manuscript is accepted for publication, JAMA Network video product
 </details>
  
   <details>
-    <summary>Brain</summary>
+    <summary><h1 style="display:inline-block">Brain</summary>
   </details>
  
   
@@ -1088,7 +1088,7 @@ NOTE: If your manuscript is accepted for publication, JAMA Network video product
   
   
   <details>
-    <summary>Annals of Neurology</summary>
+    <summary><h1 style="display:inline-block">Annals of Neurology</summary>
   </details>
 </details>
 
